@@ -1,5 +1,4 @@
 # C# Console Application Project
-@ Author Clement Mensah
 
 This project demonstrates various object-oriented programming concepts in C# through a console application. It includes implementations for inheritance, abstract classes and methods, and interfaces.
 
