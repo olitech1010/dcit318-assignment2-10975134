@@ -21,6 +21,16 @@ class Program
 
         Console.WriteLine($"Area of Circle: {circle.GetArea()}"); 
         Console.WriteLine($"Area of Rectangle: {rectangle.GetArea()}");
+        
+
+        //!! Testing interfaces
+        Car car = new Car();
+        Bicycle bicycle = new Bicycle();
+
+        car.Move();
+        bicycle.Move();
+
+        Console.ReadKey();
 
         Console.ReadKey();
     }
